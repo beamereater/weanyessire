@@ -1,1 +1,1 @@
-document.url = "https://beamereater.github.io/weanyessire/caption.gif"
+window.location.href = "https://beamereater.github.io/weanyessire/index.gif"
